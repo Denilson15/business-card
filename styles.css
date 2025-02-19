@@ -1,0 +1,54 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 100px;
+    background-color: #222222;
+}
+
+.avatar {
+    width: 150px;
+     box-shadow: 4px 4px 10px #4d194d
+}
+
+.name{
+    text-decoration: none;
+    color: #272640;
+}
+
+.name:hover{
+    text-decoration: underline;
+    color: #222222;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #065a60;
+    color: #272640;
+    box-shadow: 4px 4px 10px #4d194d;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
